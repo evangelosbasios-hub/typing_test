@@ -1,0 +1,11 @@
+1. Make the script executable
+
+chmod +x /home/user1/Documents/diathematiki_ergasia/main.py
+
+2. Create a global command
+
+sudo ln -s /home/user1/Documents/diathematiki_ergasia/main.py /usr/local/bin/typingtest
+
+3. Run the program from anywhere
+
+typingtest
