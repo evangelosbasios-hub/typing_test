@@ -50,5 +50,12 @@
     "The airport was crowded with travelers.",
     "I enjoy taking walks in the evening.",
     "The clock on the wall was ticking loudly."
-  ]
+  ],
+  "paragraphs": [
+  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "Vivamus eget egestas justo. Nullam fringilla mi eu sapien placerat aliquam.\nVivamus ut venenatis ligula, et luctus tellus. Aenean sed nulla augue.\nCurabitur dictum et ipsum sed auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\nFusce fermentum ex eget est sollicitudin, eu viverra felis laoreet.\nEtiam pellentesque, magna vitae laoreet porta, libero augue porta diam, vitae auctor nunc metus ut orci.\nPraesent elementum tortor nibh, at egestas erat ultrices vitae.",
+  "Donec orci purus, aliquet ac vehicula quis, pellentesque quis sem.\nDuis enim orci, iaculis ac lectus in, iaculis fermentum ligula.\nPraesent scelerisque, ligula non porttitor ultrices, lorem urna finibus felis, ac gravida ante est eget purus.\nFusce fringilla tellus vitae dui porttitor lacinia.\nUt finibus nunc vitae ultricies condimentum.\nQuisque nec sem vel augue rhoncus interdum.\nMorbi quis enim id tortor porta volutpat.\nCurabitur vitae erat ipsum. Vivamus eu odio a lacus interdum dictum at in metus.",
+  "Praesent congue massa sed risus congue ullamcorper.\nDonec imperdiet est et lorem posuere, eget vestibulum velit pharetra.\nDonec lectus lacus, molestie et porttitor sed, gravida quis lectus.\nNam suscipit dolor quis nisi tristique pharetra.\nNullam gravida porttitor maximus.\nQuisque vitae nibh quis augue euismod accumsan.\nMorbi fringilla nunc sit amet condimentum convallis.\nDonec non sem mollis, dignissim arcu non, sagittis odio.\nPhasellus sodales tempus neque at commodo.\nEtiam sed vulputate tortor.",
+  "Etiam massa leo, venenatis vitae tempus sit amet, commodo in ex.\nQuisque ultricies ut tortor posuere dapibus.\nNullam et volutpat sem.\nDonec lorem purus, laoreet a blandit vitae, pharetra a ante.\nInterdum et malesuada fames ac ante ipsum primis in faucibus.\nMauris ultrices, risus a porttitor sollicitudin, velit sem tincidunt dui, eget molestie metus est et velit.\nPellentesque ut eros non nibh vehicula scelerisque sit amet eu tellus.\nSed facilisis molestie nibh vitae scelerisque.\nQuisque a interdum turpis."
+]
 }
