@@ -5,7 +5,7 @@ A simple terminal typing speed tester written in Python.
 ## Installation
 
 ```bash
-git clone <your-repo>
-cd <your-repo>
-chmod +x install.sh
-./install.sh
+git clone <repo>
+cd <repo>
+chmod +x make_app_executable.sh
+./make_app_executable.sh
